@@ -36,8 +36,8 @@ Otherwise, Simply extract the game until there are two files named <b>Scortched_
 
 ## COMMON CRASH/ERROR SOLUTION
 ___
-If you encounter a problem with running this Mod please make sure you have placed the Mod properly first
-you should have this as your file path to the Mod:<br>
+If you encounter a problem with running this Mod please make sure you have placed the Mod properly<br>
+You should have this as your file path to the Mod:<br>
 <b>\game\Mods\Scortched_Path</b>
 
 ## FEEDBACK
