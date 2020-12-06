@@ -2,7 +2,6 @@
 ___
 A Mod that adds an event of the same name to the mountain area in the game, **[Monster Girl Dreams](https://threshold.itch.io/monster-girl-dreamscreated)** by **Threshold**
 
-
 ## NOTICE:
 ___
 This mod upon download, will contain two versions, <b>Scortched_Path</b> and <b>Scortched_Path_Lite</b>
@@ -42,5 +41,5 @@ You should have this as your file path to the Mod:<br>
 
 ## FEEDBACK
 ___
-If you have any problems, want to give feedback, or even diss my mod, feel free to ping me <b>@JLP603</b> on the mod-spoilers-discussion channel of the [MGD discord](https://discord.com/invite/monstergirldreams)
+If you have any problems with the mod or want to provide feedback, feel free to ping me <b>@JLP603</b> on the mod-spoilers-discussion channel of the [MGD discord](https://discord.com/invite/monstergirldreams)
 <https://discord.com/invite/monstergirldreams>
