@@ -7,7 +7,7 @@ ___
 This mod upon download, will contain two versions, <b>Scortched_Path</b> and <b>Scortched_Path_Lite</b>
 ## Scortched_Path
 <ul>
-<li> Intended Play Experience
+<li> Experimental Presentation
 <li> Contains Text Coloring
 <li> Contains Paced Text Speed
 </ul>
@@ -19,6 +19,7 @@ This mod upon download, will contain two versions, <b>Scortched_Path</b> and <b>
 <li> No Text Speed 
 </ul>
 
+Both versions have the same amount of content in them and only vary in the above mentioned ways
 ## <!> YOU SHOULD ONLY HAVE ONE VERSION TO RUN THIS MOD <!>
 
 

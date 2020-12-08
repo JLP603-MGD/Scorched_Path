@@ -1,0 +1,41 @@
+
+  __  __  ____  _____    _____ _   _ ______ ____  _____  __  __       _______ _____ ____  _   _ 
+ |  \/  |/ __ \|  __ \  |_   _| \ | |  ____/ __ \|  __ \|  \/  |   /\|__   __|_   _/ __ \| \ | |
+ | \  / | |  | | |  | |   | | |  \| | |__ | |  | | |__) | \  / |  /  \  | |    | || |  | |  \| |
+ | |\/| | |  | | |  | |   | | | . ` |  __|| |  | |  _  /| |\/| | / /\ \ | |    | || |  | | . ` |
+ | |  | | |__| | |__| |  _| |_| |\  | |   | |__| | | \ \| |  | |/ ____ \| |   _| || |__| | |\  |
+ |_|  |_|\____/|_____/  |_____|_| \_|_|    \____/|_|  \_\_|  |_/_/    \_\_|  |_____\____/|_| \_|
+
+Author Message - Scortched Path Pre-Release                                                                                                                                                                                   
+------------------------------------------------------------------------------------------------
+	Hello! thank you for downloading my Mod! This mod adds an event called Scotched Path to 
+the mountain area. It covers up to the first encounter of my planned event and is still 
+incomplete and subject to changes. This mod upon download, will contain two versions, 
+Scortched_Path and Scortched_Path_Lite. There is no difference in content between the two but 
+they do differ in their presentation. Scortched_Path is features dialogue speed for text and 
+more text styling, while Scortched_Path_Lite has less text styling and does not have 
+dialogue textspeed. You MUST delete the other version in order for the Mod to work. 
+
+	This is my first time writing something like this, so I hope you will find or found SOME 
+amount of enjoyment with my Mod.Thanks to everyone on the MGD discord who gave critiques and 
+provided help with modding for MGD. Special thanks to Pontius Prime for the help with editing of
+the original portrait image.
+										       
+											- JLP603
+
+---------------------------<!>--{COMMON ERROR OR CRASH SOLUTION}--<!>---------------------------
+If you are experiencing a crash or error on startup of MGD after installing the Mod,
+please make sure that you have the Mod in the right file directory.
+The Mod's folder should be located at \game\Mods\Scortched_Path
+
+Feedback or Troubleshooting
+------------------------------------------------------------------------------------------------
+If you have any problems with the mod or want to provide feedback (good or bad), 
+feel free to ping me @JLP603 on the mod-spoilers-discussion channel of the MGD discord 
+https://discord.com/invite/monstergirldreams
+
+Credit
+------------------------------------------------------------------------------------------------
+Game built from Monster Girl Dreams by Treshold
+Art used Chimera from Monster Girl Encylopedia by Kenkou Cross
+Music taken from Purple Planet Music & other various youtube videos
