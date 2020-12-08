@@ -6,7 +6,7 @@
  | |  | | |__| | |__| |  _| |_| |\  | |   | |__| | | \ \| |  | |/ ____ \| |   _| || |__| | |\  |
  |_|  |_|\____/|_____/  |_____|_| \_|_|    \____/|_|  \_\_|  |_/_/    \_\_|  |_____\____/|_| \_|
 
-Author Message - Scortched Path Pre-Release                                                                                                                                                                                   
+Author Message - Scortched Path v0.01                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
 	Hello! thank you for downloading my Mod! This mod adds an event called Scotched Path to 
 the mountain area. It covers up to the first encounter of my planned event and is still 
