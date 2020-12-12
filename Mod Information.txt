@@ -12,13 +12,13 @@ Version Changes - Scorched Path v0.01a
 
 Author Message - Scorched Path v0.01a                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
-	Hello! thank you for downloading my Mod! This mod adds an event called Scotched Path to 
+	Hello! thank you for downloading my Mod! This mod adds an event called Scoched Path to 
 the mountain area. It covers up to the first encounter of my planned event and is still 
 incomplete and subject to changes. This mod upon download, will contain two versions, 
 Scorched_Path and Scorched_Path_Lite. There is no difference in content between the two but 
 they do differ in their presentation. Scorched_Path is features dialogue speed for text and 
 more text styling, while Scorched_Path_Lite has less text styling and does not have 
-dialogue textspeed. You MUST delete the other version in order for the Mod to work. 
+dialogue textspeed. You MUST delete or disable the other version in order for the Mod to work. 
 
 	This is my first time writing something like this, so I hope you will find or found SOME 
 amount of enjoyment with my Mod.Thanks to everyone on the MGD discord who gave critiques and 
