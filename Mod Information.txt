@@ -6,9 +6,9 @@
  | |  | | |__| | |__| |  _| |_| |\  | |   | |__| | | \ \| |  | |/ ____ \| |   _| || |__| | |\  |
  |_|  |_|\____/|_____/  |_____|_| \_|_|    \____/|_|  \_\_|  |_/_/    \_\_|  |_____\____/|_| \_|
 
-Version Changes - Scorched Path v0.01a                                                                                                                                                                                   
+Version Changes - Scorched Path v0.01b                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
--Made some bug fixes, and fixed typos
+-Made some bug fixes, and fixed typos on the accompanying docs
 
 Author Message - Scorched Path v0.01a                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
