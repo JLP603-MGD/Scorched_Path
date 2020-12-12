@@ -10,7 +10,7 @@ Version Changes - Scorched Path v0.01b
 ------------------------------------------------------------------------------------------------
 -Made some bug fixes, and fixed typos on the accompanying docs
 
-Author Message - Scorched Path v0.01a                                                                                                                                                                                   
+Author Message - Scorched Path v0.01b                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
 	Hello! thank you for downloading my Mod! This mod adds an event called Scoched Path to 
 the mountain area. It covers up to the first encounter of my planned event and is still 
