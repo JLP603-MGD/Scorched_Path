@@ -1,6 +1,6 @@
 # Scorched Path
 ___
-A Mod that adds an event of the same name to the mountain area in the game, **[Monster Girl Dreams](https://threshold.itch.io/monster-girl-dreamscreated)** by **Threshold**
+A Mod that adds an event of the same name to the mountain area in the game, **[Monster Girl Dreams](https://www.patreon.com/MonsterGirlDreams)** by **Threshold**
 
 ## NOTICE:
 ___
