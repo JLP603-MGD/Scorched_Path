@@ -35,7 +35,7 @@ The Mod's folder should be located at \game\Mods\Scorched_Path
 Feedback or Troubleshooting
 ------------------------------------------------------------------------------------------------
 If you have any problems with the mod or want to provide feedback (good or bad), 
-feel free to ping me @JLP603 on the mod-spoilers-discussion channel of the MGD discord 
+feel free to ping me @JLP603 on one of the mod channels of the MGD discord 
 https://discord.com/invite/monstergirldreams
 
 Credit
