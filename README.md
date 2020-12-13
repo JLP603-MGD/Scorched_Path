@@ -42,5 +42,5 @@ You should have this as your file path to the Mod:<br>
 
 ## FEEDBACK
 ___
-If you have any problems with the mod or want to provide feedback, feel free to ping me <b>@JLP603</b> on one of the mod channels of the [MGD discord](https://discord.com/invite/monstergirldreams)
+If you have any problems with the mod or want to provide feedback, feel free to ping me <b>@JLP603</b> on one of the modding channels of the [MGD discord](https://discord.com/invite/monstergirldreams)
 <https://discord.com/invite/monstergirldreams>

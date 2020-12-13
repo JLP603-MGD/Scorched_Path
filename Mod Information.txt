@@ -6,11 +6,10 @@
  | |  | | |__| | |__| |  _| |_| |\  | |   | |__| | | \ \| |  | |/ ____ \| |   _| || |__| | |\  |
  |_|  |_|\____/|_____/  |_____|_| \_|_|    \____/|_|  \_\_|  |_/_/    \_\_|  |_____\____/|_| \_|
 
-Version Changes - Scorched Path v0.01b                                                                                                                                                                                   
+Version Changes - Scorched Path v0.01c                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
--Made some bug fixes, and fixed typos on the accompanying docs
-
-Author Message - Scorched Path v0.01b                                                                                                                                                                                   
+-Made some bug fixes in the Mountain addition file
+Author Message - Scorched Path v0.01c                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
 	Hello! thank you for downloading my Mod! This mod adds an event called Scoched Path to 
 the mountain area. It covers up to the first encounter of my planned event and is still 
@@ -35,7 +34,7 @@ The Mod's folder should be located at \game\Mods\Scorched_Path
 Feedback or Troubleshooting
 ------------------------------------------------------------------------------------------------
 If you have any problems with the mod or want to provide feedback (good or bad), 
-feel free to ping me @JLP603 on one of the mod channels of the MGD discord 
+feel free to ping me @JLP603 on one of the modding channels of the MGD discord 
 https://discord.com/invite/monstergirldreams
 
 Credit
