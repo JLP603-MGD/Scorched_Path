@@ -6,29 +6,20 @@
  | |  | | |__| | |__| |  _| |_| |\  | |   | |__| | | \ \| |  | |/ ____ \| |   _| || |__| | |\  |
  |_|  |_|\____/|_____/  |_____|_| \_|_|    \____/|_|  \_\_|  |_/_/    \_\_|  |_____\____/|_| \_|
 
-Version Changes - Scorched Path v0.02f                                                                                                                                                                                   
+Version Changes - Scorched Path v0.02e                                                                                                                                                                                   
 ------------------------------------------------------------------------------------------------
--fixed leave option bug
--Rest of the planned content
--Added Music calls
--Added Visit Button
--Bug fixes
+-made minor changes to make Scorched_Path compatible for MGD ver. 23.7a
 
-Author Message - Scorched Path v0.02f                                                                                                                                                                                  
+Author Message - Scorched Path v0.02e                                                                                                                                                                                  
 ------------------------------------------------------------------------------------------------
 	Hello! thank you for downloading my Mod! This mod adds an event called Scoched Path to 
-the mountain area. It covers up to the first encounter of my planned event and is still 
-incomplete and subject to changes. In this version I have added the rest of the planned content
-for the Scorched Path Mod and fixed some reported bugs. At the time of writing, only the lite 
-or unedited version is finished.This is a test version and may contain unexpected bugs so if you
-find any please let me know on discord.
+the mountain area. At the time of writing, only the lite or unedited version is finished.
 
-	This is my first time writing something like this, so I hope you will find or found SOME 
-amount of enjoyment with my Mod.Thanks to everyone on the MGD discord who gave critiques and 
-provided help with modding for MGD. Special thanks to Pontius Prime for the help with editing of
-the original portrait image.
+	Thanks to everyone on the MGD discord who gave critiques and provided help with how modding 
+for MGD. Special thanks to Pontius Prime for the help with editing of the original portrait 
+image.
 										       
-											- JLP603
+																					- JLP603
 
 ---------------------------<!>--{COMMON ERROR OR CRASH SOLUTION}--<!>---------------------------
 If you are experiencing a crash or error on startup of MGD after installing the Mod,
@@ -47,6 +38,6 @@ I do not own any of the assets listed below, nor use them for monetary reasons.
 They belong to their respective owners and copyright holders.
 
 Game built from Monster Girl Dreams by Treshold
-Art used Chimera from Monster Girl Encylopedia by Kenkou Cross
-Music taken from Purple Planet Music, Flower Knight Girls Official Soundtrack,
-& other various youtube videos
+Art used is the Chimera from Monster Girl Encylopedia by Kenkou Cross
+Music taken from Purple Planet Music, Flower Knight Girls Official Soundtrack
+Sound effects were retrieced from Zapsplat & other various youtube videos
